@@ -21,7 +21,7 @@ This is a simple blog platform where users can create, read, update, and delete 
 
 ## Deployment
 
-- [Back-End on vercel](#https://blog-server-hazel.vercel.app/)
+- [Back-End on vercel](https://blog-server-hazel.vercel.app/)
 
 ## Future Improvements
 
